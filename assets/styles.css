@@ -1,0 +1,92 @@
+body{
+  background-color: #222222;
+}
+.txtt{
+  position: absolute;
+  width: 794.52px;
+  height: 102.3px;
+  left: 78px;
+  top: 204.61px;
+
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35.8432px;
+  line-height: 47px;
+  letter-spacing: 0.275em;
+
+  color: #FFFFFF;
+}
+.hi{
+  position: absolute;
+  width: 97.82px;
+  height: 97.82px;
+  left: 426.72px;
+  top: 115px;
+
+  font-family: Comforter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 69.0509px;
+  line-height: 97px;
+  /* identical to box height */
+
+  letter-spacing: 0.275em;
+
+  color: #FFFFFF;
+}
+.ima{
+  position: absolute;
+width: 235.97px;
+height: 150.09px;
+left: 98.16px;
+top: 271.81px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 53.7648px;
+line-height: 71px;
+letter-spacing: 0.14em;
+
+color: #FFFFFF;
+}
+.image1{
+  position: absolute;
+  width: 363.66px;
+  height: 363.66px;
+  left: 985.86px;
+  top: 80.49px;
+}
+.image2{
+  position: absolute;
+left: 62.67%;
+right: 5.49%;
+top: 19.98%;
+bottom: 41.47%;
+
+}
+.dtl{
+  position: absolute;
+width: 616.05px;
+height: 212.82px;
+left: 178.06px;
+top: 348.73px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 35.8432px;
+line-height: 47px;
+letter-spacing: 0.275em;
+
+color: #FFFFFF;
+}
+.design{
+  position: absolute;
+width: 257px;
+height: 285.15px;
+left: -108px;
+top: -85px;
+
+}
