@@ -4,8 +4,8 @@ body{
   margin: 0px;
 }
 .top{
-  width: 1536px;
-  height: 705px;
+  width: 100vw;
+  height: 100vh;
   border: 0px;
   margin: 0px;
   padding: 0px;
@@ -68,20 +68,20 @@ color: #FFFFFF;
 }
 .image1{
   position: absolute;
-  left: 61%;
-  right: 11.5%;
-  top: 20%;
-  bottom: 26%;
+  width: 326.29px;
+  height: 305px;
+  left: 985px;
+  top: 160px;
 
 }
 .image2{
 
+  height: 341.2217712402344px;
+  width: 396.4110107421875px;
+  left: 971px;
+  top: 167.1729736328125px;
 
   position: absolute;
-  left: 60.81%;
-  right: 13.5%;
-  top: 25.82%;
-  bottom: 26%;
 
 
 }
