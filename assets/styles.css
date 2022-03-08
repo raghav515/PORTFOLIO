@@ -1,3 +1,24 @@
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #ffffff #161616;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #161616;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px none #ffffff;
+  }
 body{
   width: 100%;
   height: 500vh;
@@ -121,7 +142,7 @@ bottom: 26%;
   height:435px;
 left: 241px;
 right: 988px;
-top: 680px;
+top: 806px;
 
 }
 .text2{
@@ -130,7 +151,7 @@ top: 680px;
   height: 281px;
 left: 976px;
 right: 203.22px;
-top: 740px;
+top: 900px;
 }
 .cdsy{
   position: absolute;
@@ -139,4 +160,11 @@ height: 101px;
 left: 1303px;
 top: 670px;
 
+}
+.cir{
+  position: absolute;
+right: 1372.5px;
+top: 553px;
+left: 0px;
+opacity: 0.5;
 }
