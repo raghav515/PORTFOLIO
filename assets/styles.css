@@ -1,23 +1,17 @@
-
 body{
+  width: 100%;
+  height: 500vh;
   background-color: #222222;
   margin: 0px;
 }
 .top{
-  width: 100vw;
-  height: 100vh;
+
   border: 0px;
   margin: 0px;
   padding: 0px;
 
 }
-.mid{
-    width: 1519px;
-    height: 705px;
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
-}
+
 .txtt{
 
   font-family: 'Roboto Slab', serif;
@@ -70,8 +64,8 @@ color: #FFFFFF;
   position: absolute;
   width: 326.29px;
   height: 305px;
-  left: 985px;
-  top: 160px;
+  left: 981px;
+  top: 140px;
 
 }
 .image2{
@@ -93,6 +87,7 @@ left: 65.61%;
 bottom: 26%;
 
 }
+
 .dtl{
   font-family: 'Roboto Slab', serif;
   position: absolute;
@@ -118,5 +113,30 @@ bottom: 26%;
 
 
   transform: rotate(-10.59deg);
+
+}
+.image3{
+  position: absolute;
+  width:293px;
+  height:435px;
+left: 241px;
+right: 988px;
+top: 680px;
+
+}
+.text2{
+  position: absolute;
+  width:249.28px;
+  height: 281px;
+left: 976px;
+right: 203.22px;
+top: 740px;
+}
+.cdsy{
+  position: absolute;
+width: 176.75px;
+height: 101px;
+left: 1303px;
+top: 670px;
 
 }
