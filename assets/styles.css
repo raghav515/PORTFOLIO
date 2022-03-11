@@ -2,7 +2,7 @@
   /* Firefox */
   * {
     scrollbar-width: auto;
-    scrollbar-color: #ffffff #161616;
+    scrollbar-color: #ffffff #222222;
   }
 
   /* Chrome, Edge, and Safari */
@@ -11,7 +11,7 @@
   }
 
   *::-webkit-scrollbar-track {
-    background: #161616;
+    background: #222222;
   }
 
   *::-webkit-scrollbar-thumb {
@@ -164,7 +164,36 @@ top: 670px;
 .cir{
   position: absolute;
 right: 1372.5px;
-top: 553px;
+top: 563px;
 left: 0px;
-opacity: 0.5;
+opacity: 0.8;
+}
+.arrow{
+  position:relative;
+
+  top: 1349px;
+  left: 1472px;
+}
+.t3{
+  position: absolute;
+width: 433.89px;
+height: 280px;
+left: 241px;
+top: 1554px;
+}
+.i3{
+  position: absolute;
+  top: 1471px;
+  left:1060px;
+}
+.p2{
+position: absolute;
+left:162px;
+top:865px;
+}
+
+.p3{
+  position: absolute;
+  left:977px;
+  top:1511px;
 }
