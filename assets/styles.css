@@ -235,3 +235,7 @@ top:865px;
   left:977px;
   top:1511px;
 }
+#particles-js{
+  height: 100%;
+  background-color: #aabbff;
+}
